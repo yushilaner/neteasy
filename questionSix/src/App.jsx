@@ -19,7 +19,3 @@ function App() {
 }
 
 export default App;
-
-/*
-before, after, ---, 2, then , after setState, timeout
-*/
